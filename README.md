@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 oms
 ===
 
@@ -25,3 +26,7 @@ OMS管理平台界面
 ![主页](https://github.com/binbin91/oms/raw/master/demo/device_asset.jpg)
 ![主页](https://github.com/binbin91/oms/raw/master/demo/data_center.jpg)
 
+=======
+# yunweipingtai
+this code from 小马  ， i put it for convince read
+>>>>>>> origin/master
