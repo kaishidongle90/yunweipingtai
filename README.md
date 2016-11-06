@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+This code from xiaoma , I put this for convince read , Thanks for xiaoma !!!
+This code from xiaoma , I put this for convince read , Thanks for xiaoma !!!
+This code from xiaoma , I put this for convince read , Thanks for xiaoma !!!
 oms
 ===
 
